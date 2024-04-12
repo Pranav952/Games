@@ -16,5 +16,5 @@ def draw_shape(side):
         turtle.left(angle)
 
 
-draw_shape(4)
+draw_shape(8)
 screen.mainloop()
