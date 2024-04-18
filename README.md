@@ -1,1 +1,2 @@
-Hey i have done some cool python projects don't forget to check all 
+Hey i have created some cool gui games using python libary !!!!!! Dont forget to check it out
+
